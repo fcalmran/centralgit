@@ -1,6 +1,6 @@
 s1="Tom and Jerry"
 print(len(s1)) # runs without any error
-print(lower(s1)) # Gives an error ..
+#print(lower(s1)) # Gives an error ..
 
 
 
