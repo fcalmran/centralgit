@@ -96,6 +96,7 @@ if number > 5:
 
 name = input("Enter your name: ")
 print(f"Hello, {name}!")
+
 # 13. Printing Progress:
 # Use Case: Indicating progress during long-running tasks.
 
